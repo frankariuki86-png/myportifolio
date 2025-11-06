@@ -115,11 +115,11 @@ justify-content: space-between;
 }
 
 .body{
-    background: linear-gradient(to top,rgba(0,0,0,0.85)25%, rgba(0,0,0,0.85)25%),url(photos/IMG-20250812-WA0019.jpg);
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
-    color:#ff7200 ;
+  width: 100%;
+  background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(photos/1.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #ff7200;
 }
 .home-tab{
     padding-top: 200px;
@@ -229,7 +229,7 @@ border: solid;
   padding-bottom: 20px; 
 }
 .service{
-  background:#fff;
+  background:#b3bdd2;
   border-radius:10px;
   overflow:hidden;
   box-shadow:0 3px 8px rgba(0,0,0,0.1);
@@ -259,7 +259,7 @@ border: solid;
   padding-right: 30px;
 }
 .project{
-  background:#fff;
+  background:#b3bdd2;
   border-radius:10px;
   overflow:hidden;
   box-shadow:0 3px 8px rgba(0,0,0,0.1);
